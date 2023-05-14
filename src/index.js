@@ -10,7 +10,7 @@ root.render(
   <React.StrictMode>
     <Container>
       <Row className="justify-content-md-center align-items-center">
-        <Col md="4" mx-auto>
+        <Col md="4" className='mx-auto mt-3'>
           <DishForm /> 
         </Col>
       </Row>
